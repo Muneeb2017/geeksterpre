@@ -1,0 +1,60 @@
+* {
+  text-align: center;
+  margin: 0;
+}
+
+#start {
+  background-color: black;
+  height: 80px;
+}
+
+h1 {
+  color: white;
+}
+
+#name {
+  color: gold;
+  float: left;
+  line-height: 70px;
+  height: 70px;
+  text-align: center;
+  width: 40%;
+}
+#menu {
+  color: white;
+  float: right;
+  line-height: 70px;
+  height: 70px;
+  text-align: center;
+  width: 60%;
+}
+a {
+  color: white;
+  margin-right: 40px;
+  text-decoration: none;
+}
+#h2 {
+  color: blue;
+}
+#hf {
+  background: linear-gradient(60deg, white, black);
+  padding: 20px;
+  border-radius: 50%;
+  margin: 20px auto;
+}
+#st {
+  background: linear-gradient(gray, green);
+  padding: 20px;
+  border-radius: 30%;
+  margin: 10px auto;
+}
+table {
+  width: 100%;
+  margin-top: 30px;
+}
+#footer {
+  background: black;
+  padding: 30px;
+  color: cornsilk;
+  margin-top: 50px;
+}
